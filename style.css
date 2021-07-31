@@ -1,0 +1,12 @@
+body  {
+
+    background-image: url("background.jpg");
+
+
+}
+canvas{
+border-width: 5 px;
+border-color: antiquewhite;
+border-style: solid;
+
+}
